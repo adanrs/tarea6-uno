@@ -1,0 +1,7 @@
+baseURL = "http://hugo-example4.netlify.app/"
+languageCode = "en-us"
+title = "Computer Science Books"
+theme= "plain"
+paginate= 3
+[outputs]
+  home = ["HTML", "RSS", "JSON"]

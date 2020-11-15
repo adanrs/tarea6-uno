@@ -1,12 +1,14 @@
 {
 	"_id": 4,
-	"title": "Modern Operating Systems",
-	"edition": "4th",
-	"copyright": 2014,
-	"language": "ENGLISH",
-	"pages": 1136,
-	"author": "Andrew S. Tanenbaum",
-	"author_id": 2,
-	"publisher": "Pearson Education",
-	"publisher_id": 2
+    "title": "Sing",
+    "Genre": "Animation,Comedy,Family",
+    "Description": "In a city of humanoid animals, a hustling theater impresario's attempt to save his theater with a singing competition becomes grander than he anticipates even as its finalists' find that their lives will never be the same.",
+    "Director": "Christophe Lourdelet",
+    "Actors": "Matthew McConaughey,Reese Witherspoon, Seth MacFarlane, Scarlett Johansson",
+    "Year": 2016,
+    "Runtime": 108,
+    "Rating": 7.2,
+    "Votes": 60545,
+    "Revenue": 270.32,
+    "Metascore": 59
 }

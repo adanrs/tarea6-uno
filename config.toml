@@ -1,6 +1,6 @@
 baseURL = "https://unruffled-jennings-9534ae.netlify.app/"
 languageCode = "en-us"
-title = "Computer Science Books"
+title = "IMDB 2006 - 2016"
 theme= "plain"
 paginate= 3
 [outputs]

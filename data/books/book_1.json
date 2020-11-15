@@ -1,12 +1,20 @@
 	{
 		"_id": 1,
-		"title": "Operating System Concepts",
-		"edition": "9th",
+		"title": "Guardians of the Galaxy",
+		"Genre": "Action,Adventure,Sci-Fi",
+		"Description": "A group of intergalactic criminals are forced to work together to stop a fanatical warrior from taking control of the universe.",
 		"copyright": 2012,
 		"language": "ENGLISH",
 		"pages": 976,
-		"author": "Abraham Silberschatz",
-		"author_id": 1,
-		"publisher": "John Wiley & Sons",
-		"publisher_id": 1
+		"Director": "James Gunn",
+		"Director_id": 1,
+		"Actors": "Chris Pratt, Vin Diesel, Bradley Cooper, Zoe Saldana",
+		"Actors_id": 1,
+		"Year": 2014,
+		"Runtime": 121,
+		"Rating": 8.1,
+		"Votes": 757074,
+		"Revenue": 333.13,
+		"Metascore": 76
 	}
+

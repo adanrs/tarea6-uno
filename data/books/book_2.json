@@ -1,12 +1,14 @@
 {
-	"_id": 2,
-	"title": "Database System Concepts",
-	"edition": "6th",
-	"copyright": 2010,
-	"language": "ENGLISH",
-	"pages": 1376,
-	"author": "Abraham Silberschatz",
-	"author_id": 1,
-	"publisher": "John Wiley & Sons",
-	"publisher_id": 1
+    "_id": 2,
+    "title": "Prometheus",
+    "Genre": "Adventure,Mystery,Sci-Fi",
+    "Description": "Following clues to the origin of mankind, a team finds a structure on a distant moon, but they soon realize they are not alone.",
+    "Director": "Ridley Scott",
+    "Actors": "Noomi Rapace, Logan Marshall-Green, Michael Fassbender, Charlize Theron",
+    "Year": 2012,
+    "Runtime": 124,
+    "Rating": 7,
+    "Votes": 485820,
+    "Revenue": 126.46,
+    "Metascore": 65
 }

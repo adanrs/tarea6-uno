@@ -1,6 +1,6 @@
 {{ define "main" }}
 
-{{ $path := ( print "data/books/" .File.TranslationBaseName ".json") }}
+{{ $path := ( print "data/movies/" .File.TranslationBaseName ".json") }}
 
 {{ $dataJ := getJSON $path }}
 
@@ -12,7 +12,7 @@
      <input class="u-full-width" type="text" id="copyright" value="{{ $dataJ.Genre }}" readonly/>
    </div>
 	 <div class="three columns">
-		 <img width="100%" style="margin-left: 50%;" src="/books/{{.File.TranslationBaseName}}.jpg"/>
+		 <img width="100%" style="margin-left: 50%;" src="/movies/{{.File.TranslationBaseName}}.jpg"/>
 	</div>
 </div>
 

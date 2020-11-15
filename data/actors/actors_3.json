@@ -10,5 +10,11 @@
     "Rating": 7.3,
     "Votes": 157606,
     "Revenue": 138.12,
-    "Metascore": 62
+    "Metascore": 62,
+    "movies": [
+		{
+			"movie_id": 3,
+			"title": "split"
+		}
+	]
 }

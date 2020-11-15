@@ -10,5 +10,11 @@
 		"Rating": 8.1,
 		"Votes": 757074,
 		"Revenue": 333.13,
-		"Metascore": 76
+		"Metascore": 76,
+		"movies": [
+			{
+				"movie_id": 2 ,
+				"title": "Guardians of the Galaxy"
+			}
+		]
 	}

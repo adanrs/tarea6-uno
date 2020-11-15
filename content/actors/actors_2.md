@@ -1,3 +1,3 @@
 ---
-Title: Pearson Education
+Title: Noomi Rapace, Logan Marshall-Green, Michael Fassbender, Charlize Theron
 ---

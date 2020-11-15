@@ -10,5 +10,11 @@
     "Rating": 7,
     "Votes": 485820,
     "Revenue": 126.46,
-    "Metascore": 65
+    "Metascore": 65,
+    "movies": [
+		{
+			"movie_id": 2 ,
+			"title": "Prometheus"
+		}
+	]
 }

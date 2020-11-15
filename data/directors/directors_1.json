@@ -8,5 +8,11 @@
     "Votes": 757074,
 
     "Metascore": 76,
-    "Nationality": "United States Of America"
+    "Nationality": "United States Of America",
+    "movies": [
+		{
+			"movie_id": 1,
+			"title": "Guardians of the Galaxy"
+		}
+	]
 }

@@ -1,12 +1,12 @@
 {{ define "main" }}
 
-{{ $path := ( print "data/publishers/" .File.TranslationBaseName ".json") }}
+{{ $path := ( print "data/actors/" .File.TranslationBaseName ".json") }}
 
 {{ $dataJ := getJSON $path }}
 
-<h4 style="margin-top: 15px">{{ $dataJ.publisher }}</h4>
+<h4 style="margin-top: 15px">{{ $dataJ.actor }}</h4>
 
-<h5>Publisher's details</h5>
+<h5>Actors's details</h5>
 <form>
   <div class="row">
     <div class="six columns">

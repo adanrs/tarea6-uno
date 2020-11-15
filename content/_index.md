@@ -15,8 +15,8 @@ Title: Home Page
 	  </a>
   </div>
   <div class="four columns value-prop">
-		<a href="/publishers/">
-    <img class="center" style="margin:20px" title="Publishers" src="icons/publishers.svg">
+		<a href="/actors/">
+    <img class="center" style="margin:20px" title="actors" src="icons/actors.svg">
 	 </a>
   </div>
 </div>

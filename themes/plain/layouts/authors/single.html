@@ -30,11 +30,11 @@
 
 <h5>Movies</h5>
 <div class="row">
-	{{ range $dataJ.books }}
+	{{ range $dataJ.movies }}
 	<div class="four columns">
 		<figure>
-		 <a href="/books/book_{{ .book_id }}">
-	   <img width="100%" src="{{( print "/books/book_" .book_id ".jpg")}}">
+		 <a href="/movies/movie_{{ .book_id }}">
+	   <img width="100%" src="{{( print "/movies/movie_" .book_id ".jpg")}}">
 	  </a>
 		<figcaption style="text-align: center">{{ .title }}</figcaption>
 		</figure>

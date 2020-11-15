@@ -1,3 +1,0 @@
----
-Title: Database System Concepts
----

@@ -1,3 +1,0 @@
----
-Title: Operating System Concepts
----

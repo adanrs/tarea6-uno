@@ -11,7 +11,7 @@ Title: Home Page
   </div>
   <div class="four columns value-prop">
 		<a href="/directors/">
-    <img class="center" style="margin:20px" title="directors" src="icons/director.svg">
+    <img class="center" style="margin:20px" title="directors" src="icons/director.png">
 	  </a>
   </div>
   <div class="four columns value-prop">

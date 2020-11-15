@@ -18,8 +18,8 @@
 
   <div class="row">
     <div class="six columns">
-       <label for="editionInput">Edition</label>
-       <input class="u-full-width" type="text" id="edition" value="{{ $dataJ.edition }}" readonly/>
+       <label for="editionInput">Year</label>
+       <input class="u-full-width" type="text" id="edition" value="{{ $dataJ.year }}" readonly/>
     </div>
     <div class="six columns">
        <label for="languageInput">Language</label>
@@ -28,9 +28,9 @@
   </div>
   <div class="row">
     <div class="six columns">
-       <label for=" authorInput">Author</label>
+       <label for=" authorInput">Director</label>
        <a href="/authors/author_{{ $dataJ.author_id }}">
-         <input class="u-full-width" type="button" id=" author" value="{{ $dataJ.author }}" readonly/>
+         <input class="u-full-width" type="button" id=" author" value="{{ $dataJ.director }}" readonly/>
        </a>
     </div>
     <div class="six columns">

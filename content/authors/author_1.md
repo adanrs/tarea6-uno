@@ -1,3 +1,0 @@
----
-Title: Abraham Silberschatz
----

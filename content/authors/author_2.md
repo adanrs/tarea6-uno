@@ -1,3 +1,0 @@
----
-Title: Andrew S. Tanenbaum
----

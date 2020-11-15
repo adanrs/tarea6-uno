@@ -1,18 +1,18 @@
 {{ define "main" }}
 
-{{ $path := ( print "data/authors/" .File.TranslationBaseName ".json") }}
+{{ $path := ( print "data/directors/" .File.TranslationBaseName ".json") }}
 
 {{ $dataJ := getJSON $path }}
 
 <div class="row">
 	 <div class="six columns">
      <h4 style="margin-top: 15px">{{ $dataJ.author }}</h4>
-		 <h5>Actor's details</h5>
+		 <h5>director's details</h5>
        <label for="nationalityInput">Nationality</label>
        <input class="u-full-width" id="nationality" type="text" value="{{ $dataJ.nationality }}" readonly/>
    </div>
 	 <div class="three columns">
-		 <img width="100%" style="margin-left: 50%;" src="/authors/{{.File.TranslationBaseName}}.jpg"/>
+		 <img width="100%" style="margin-left: 50%;" src="/directors/{{.File.TranslationBaseName}}.jpg"/>
 	</div>
 <div>
 

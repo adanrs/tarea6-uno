@@ -1,0 +1,3 @@
+---
+Title: Ridley Scott
+---

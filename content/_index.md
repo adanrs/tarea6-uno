@@ -6,12 +6,12 @@ Title: Home Page
 <div class="row">
   <div class="four columns">
 		<a href="/movies/">
-    <img class="center" style="margin:20px" title="Movies" src="icons/cinema.jpg">
+    <img class="center" style="margin:20px" title="Movies" src="icons/cinema.png">
 	  </a>
   </div>
   <div class="four columns value-prop">
-		<a href="/authors/">
-    <img class="center" style="margin:20px" title="Authors" src="icons/authors.svg">
+		<a href="/directors/">
+    <img class="center" style="margin:20px" title="directors" src="icons/director.svg">
 	  </a>
   </div>
   <div class="four columns value-prop">

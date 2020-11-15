@@ -7,8 +7,9 @@
 		"language": "ENGLISH",
 		"pages": 976,
 		"Director": "James Gunn",
-		"Director_id": 1,
+		
 		"Actors": "Chris Pratt, Vin Diesel, Bradley Cooper, Zoe Saldana",
+		"Director_id": 1,
 		"Actors_id": 1,
 		"Year": 2014,
 		"Runtime": 121,

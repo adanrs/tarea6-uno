@@ -10,5 +10,8 @@
     "Rating": 6.1,
     "Votes": 56036,
     "Revenue": 45.13,
-    "Metascore": 42
+    "Metascore": 42,
+    "language": "ENGLISH",
+    "Director_id": 5,
+		"Actors_id": 5
 }
